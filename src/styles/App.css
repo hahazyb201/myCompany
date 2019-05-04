@@ -1,0 +1,30 @@
+.footer{
+    position: relative;
+    bottom: 0;
+
+}
+.App {
+ text-align: center;
+}
+
+.bkim {
+    width:80%;
+    margin: 0 0 5% 0;
+}
+.App-header {
+ background-color: #282c34;
+ display: flex;
+ align-items: center;
+ color: white;
+ height:50px;
+}
+
+.App-title {
+ font-size: 20px;
+ font-weight: 600;
+ color: #61dafb
+}
+
+.App-link {
+ color: #61dafb;
+}
